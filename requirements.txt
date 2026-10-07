@@ -2,3 +2,4 @@ Flask>=3.0,<4
 Werkzeug>=3.0
 demucs>=4.0.1
 faster-whisper>=1.1.0
+gunicorn
