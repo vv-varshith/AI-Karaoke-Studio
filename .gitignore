@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+uploads/
+processed/
+recordings/
+
+.env
+.DS_Store
+Thumbs.db
